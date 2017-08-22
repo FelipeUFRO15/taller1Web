@@ -1,0 +1,47 @@
+.navbar {
+	background-color: black;
+	opacity: 0.8;
+}
+
+.icono {
+	width: 10em;
+	height: 2.5em;
+	margin-right: 1em;
+	margin-top: 0.5em;
+}
+
+#contImagen1 {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#grupo2 {
+	width: 100%;
+}
+
+#descripcion {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#descripcion div {
+	float: left;
+}
+
+#descripcion h2 {
+	color: white;
+}
+
+#descripcion h4 {
+	color: lightgray;
+}
+
+#grupo1 {
+	width: 87%;
+	margin-top: 3em;
+}
+
+#theLamb {
+	width: 84%;
+	margin-top: 3em;
+}
