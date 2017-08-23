@@ -15,7 +15,7 @@
 	margin-bottom: 2em;
 }
 
-#grupo2 {
+#grupo2, .caratula{
 	width: 100%;
 }
 
@@ -44,4 +44,8 @@
 #theLamb {
 	width: 84%;
 	margin-top: 3em;
+}
+
+#texto1 {
+	color: white;
 }
